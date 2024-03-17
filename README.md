@@ -1,0 +1,2 @@
+- Hi, I'm Metin İRTEMEK
+- I'm Senior Full Stack JavaScript/TypeScript Developer & Team Lead
